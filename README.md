@@ -33,7 +33,6 @@ An intelligent workflow automation system that transforms CSV candidate data int
 
 **Built for:** Weekday (YC W21) - Founder's Office Coding Assignment  
 **Developer:** Vandana H | AI/Automation Intern @ Balfour Beatty  
-**Completion Time:** 18 hours across 3 days
 
 ---
 
@@ -201,7 +200,7 @@ Enables processing of 200+ candidates without API throttling.
 - Handles 1-5 rounds per candidate
 - Zero data loss during transformation
 
-**Evidence:** See [System Demonstration](#system-demonstration) - Airtable screenshots showing 2 candidates split into 4 records.
+**Evidence:** See [System Demonstration](#system-demonstration) - Airtable screenshots showing 1 candidates split into 2 records.
 
 ---
 
