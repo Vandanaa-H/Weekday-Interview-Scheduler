@@ -1,0 +1,24 @@
+{
+  "name": "weekday-interview-scheduler",
+  "version": "1.0.0",
+  "description": "Automated interview scheduling: CSV parsing, Airtable integration, MailerSend emails, and TAT tracking",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["automation", "scheduling", "airtable", "mailersend", "weekday"],
+  "author": "Vandana H <vandanah2004@gmail.com>",
+  "license": "ISC",
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "airtable": "^0.12.2",
+    "csv-parse": "^6.1.0",
+    "date-fns": "^4.1.0",
+    "dotenv": "^17.2.3",
+    "mailersend": "^2.6.0",
+    "winston": "^3.19.0"
+  }
+}
