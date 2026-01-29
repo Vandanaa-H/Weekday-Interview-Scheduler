@@ -32,7 +32,7 @@
 An intelligent workflow automation system that transforms CSV candidate data into personalized interview invitations with automated multi-round splitting, professional email delivery via MailerSend API, and real-time turnaround time (TAT) tracking in Airtable.
 
 **Built for:** Weekday (YC W21) - Founder's Office Coding Assignment  
-**Developer:** Vandana H | AI/Automation Intern @ Balfour Beatty  
+**Developer:** Vandana H | AI/Automation Intern @ Balfour Beatty Infrastructure India Pvt Ltd.  
 
 ---
 
@@ -136,7 +136,7 @@ Responsive HTML design optimized for desktop and mobile devices with:
 - Prominent Calendly scheduling button
 - Professional footer with disclaimer
 
-**Deliverability:** Tested across Gmail, Outlook, and Apple Mail with zero spam folder placement.
+**Deliverability:** Tested across Gmail with zero spam folder placement.
 
 ---
 
