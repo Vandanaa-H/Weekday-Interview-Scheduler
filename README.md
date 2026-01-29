@@ -285,7 +285,7 @@ Errors: 0
 
 #### 1. Airtable Records - After Processing
 
-![Airtable Records](./screenshots/airtable_after.png)
+![Airtable Records](./screenshots/airtable_after.jpeg)
 
 **What this shows:**
 
@@ -300,7 +300,7 @@ Errors: 0
 
 #### 2. Email Received - Professional Template
 
-![Email Received](./screenshots/email_received.png)
+![Email Received](./screenshots/email_received.jpeg)
 
 **What this shows:**
 
@@ -316,7 +316,7 @@ Errors: 0
 
 #### 3. Console Logs - Real-Time Execution
 
-![Console Logs](./screenshots/console_logs.png)
+![Console Logs](./screenshots/console_logs.jpeg)
 
 **What this shows:**
 
