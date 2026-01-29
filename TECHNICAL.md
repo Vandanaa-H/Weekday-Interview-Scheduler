@@ -1,6 +1,6 @@
 # Technical Documentation
 
-Complete technical reference for the Weekday Interview Scheduler implementation.
+Complete technical reference for the Weekday Interview Scheduler.
 
 ---
 
