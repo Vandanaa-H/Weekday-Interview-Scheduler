@@ -621,8 +621,8 @@ For detailed troubleshooting, see [TECHNICAL.md](./TECHNICAL.md).
 
 **Developer:** Vandana H  
 **Email:** vandanah2004@gmail.com  
-**LinkedIn:** [linkedin.com/in/vandana-h](https://linkedin.com/in/vandana-h)  
-**GitHub:** [github.com/Vandanaa-H](https://github.com/Vandanaa-H)
+**LinkedIn:** [vandana-h](https://linkedin.com/in/vandana-h)  
+**GitHub:** [Vandanaa-H](https://github.com/Vandanaa-H)
 
 **Current Role:** AI/Automation Intern at Balfour Beatty Infrastructure India Pvt Ltd.
 
