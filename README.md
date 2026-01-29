@@ -331,14 +331,14 @@ Errors: 0
 
 | Requirement      | Validation Criterion               | Status |
 | ---------------- | ---------------------------------- | ------ |
-| Data Splitting   | 2 CSV rows → 4 Airtable records    | ✓ PASS |
-| Round Assignment | Correct round numbers (1, 2)       | ✓ PASS |
-| Calendly Links   | Unique links per round             | ✓ PASS |
-| Email Delivery   | 4 emails sent via MailerSend       | ✓ PASS |
-| Email Content    | Professional template with details | ✓ PASS |
-| TAT Calculation  | Automatic computation on send      | ✓ PASS |
-| Status Tracking  | All records marked "Sent"          | ✓ PASS |
-| Error Handling   | Zero errors in execution           | ✓ PASS |
+| Data Splitting   | 2 CSV rows → 4 Airtable records    |  PASS  |
+| Round Assignment | Correct round numbers (1, 2)       |  PASS  |
+| Calendly Links   | Unique links per round             |  PASS  |
+| Email Delivery   | 4 emails sent via MailerSend       |  PASS  |
+| Email Content    | Professional template with details |  PASS  |
+| TAT Calculation  | Automatic computation on send      |  PASS  |
+| Status Tracking  | All records marked "Sent"          |  PASS  |
+| Error Handling   | Zero errors in execution           |  PASS  |
 
 **Conclusion:** All assignment requirements successfully implemented and validated with real data.
 
@@ -357,7 +357,7 @@ Errors: 0
 
 ```bash
 # 1. Clone repository
-git clone https://github.com/Vandanaa-H/weekday-interview-scheduler.git
+git clone [https://github.com/Vandanaa-H/weekday-interview-scheduler.git](https://github.com/Vandanaa-H/Weekday-Interview-Scheduler.git)
 cd weekday-interview-scheduler
 
 # 2. Install dependencies
@@ -650,7 +650,5 @@ Built with attention to detail and a focus on solving real recruitment workflow 
 
 **Last Updated:** January 29, 2026  
 **Version:** 1.0.0  
-**Status:** Production Ready  
-**License:** Developed for Weekday (YC W21) assignment
 
 For detailed technical documentation, see [TECHNICAL.md](./TECHNICAL.md).
